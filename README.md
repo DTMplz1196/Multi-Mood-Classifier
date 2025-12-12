@@ -9,6 +9,6 @@ This project establishes a benchmark for **Multi-Label Emotion Classification** 
 
 For some reason, I can't solve setting environment locally, so please run this ipynb file in google nootbook.
 Or
-[![Open In Colab](https://colab.research.google.com/drive/1Zi7IPDigQ8BZ3jAsMMhz9CKGHFfgmqg-)]
+[![Open In Colab]([https://colab.research.google.com/drive/1Zi7IPDigQ8BZ3jAsMMhz9CKGHFfgmqg-](https://colab.research.google.com/drive/1Zi7IPDigQ8BZ3jAsMMhz9CKGHFfgmqg-#scrollTo=7NLoqDmUns9J))]
 
 ***Project by Ni Haotian***
