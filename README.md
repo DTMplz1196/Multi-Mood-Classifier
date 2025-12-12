@@ -3,8 +3,6 @@
 ## Project Goal
 This project establishes a benchmark for **Multi-Label Emotion Classification** on the GoEmotions dataset (28 distinct emotion categories). The primary objective was to compare the performance of three progressively complex models—all trained **from scratch**—to determine the optimal architecture for decoding complex human sentiment in text.
 
----
-
 # Getting Started (Google Colab Execution)
 
 Due to persistent dependency conflicts in local environments, this project is optimized for execution within a Google Colab notebook, ensuring a reproducible setup.
