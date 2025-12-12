@@ -1,0 +1,8 @@
+# requirements.txt
+datasets
+tensorflow
+numpy
+pandas
+scikit-learn
+transformers
+scipy
